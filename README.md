@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jonahrahn
-- 👀 I’m interested in learning more about the coding communities and contributing data that i find insightful.
+- 👀 I’m interested in learning more about the coding communities and contributing data that I find insightful.
 - 🌱 I’m currently learning Excel,VBA,Python, R, SQL, and NLTK
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me jonah.rahn@gmail.com  
