@@ -6,7 +6,6 @@
 - 📫 How to reach me jonah.rahn@gmail.com  
 
 ## Fave Personal Projects
----------------------------
 1. [Mental Health Predictor](https://github.com/Jonahrahn/Mental_Health_Predictor) -  ML model that can predict mental health risks using open-source data
 2. [Neural Network Charity Analysis](https://github.com/Jonahrahn/Neural_Network_Charity_Analysis) - Optimized a Neural Network model to predict a Charities success
 3. [Bike Sharing](https://github.com/Jonahrahn/BikeSharing) -  Tableau visualization using data from Citi Bike to better understand their userbase
