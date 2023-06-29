@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jonahrahn
+### 👋 Hi, I’m @Jonahrahn
 - 📚 I graduated from a data analytics Bootcamp where I gained experience with Python, Tensorflow, and Javascript
 - 👀 I’m interested in using mostly Python for general coding, Tensorflow for ML, and Javascript for frontend
 - 🌱 I’m currently learning LLM integration with BERT and OpenAI
